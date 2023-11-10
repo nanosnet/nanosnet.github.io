@@ -1,6 +1,6 @@
 title = "My Docs"
-baseurl = "/"
-canonifyURLs = false
+baseurl = "https://nanosnet.github.io/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
