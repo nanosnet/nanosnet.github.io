@@ -1,5 +1,5 @@
 title = "My Docs"
-baseurl = "https://nanosnet.github.io/"
+baseurl = ""
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
